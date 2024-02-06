@@ -13,7 +13,7 @@ A partir del enlace anterior, se realizó tres códigos distintos en donde se ge
 
 ## Pre-requisitos para Python
 
-_Las liberías utilizadas fueron para el desarrollo del código en Python:_
+Las librerías utilizadas fueron para el desarrollo del código en Python:
 
 * [Tqdm](https://tqdm.github.io/) - Barra de progreso en terminal.
 * [Numpy](https://numpy.org/doc/stable/) - Herramienta de cálculos estadísticos.
