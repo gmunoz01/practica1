@@ -17,6 +17,7 @@ Las librerías utilizadas fueron para el desarrollo del código en Python:
 
 * [Tqdm](https://tqdm.github.io/) - Barra de progreso en terminal.
 * [Numpy](https://numpy.org/doc/stable/) - Herramienta de cálculos estadísticos.
+* [Pandas](https://pandas.pydata.org/) - Herramienta de cálculos estadísticos.
 * [BeatifulSoup](https://pypi.org/project/beautifulsoup4/) - Herramienta para visualización de HTML en terminal, útil para separar las columnas sin descargar la página por completo.
 * [gzip](https://docs.python.org/3/library/gzip.html) - Herramienta para descomprimir archivos .zip descargados.
 * [Matplotlib](https://matplotlib.org/) - Herramienta para la visualización gráfica de datos.
