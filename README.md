@@ -3,7 +3,7 @@
 * Ingeniería Civil en Bioinformática - Universidad de Talca
 * Gerardo Muñoz
 
-El presente Github corresponde a los archivos creados durante la práctica profesional I.
+El presente GitHub corresponde a los archivos creados durante la práctica profesional I.
 
 ## Descripción
 
@@ -21,3 +21,12 @@ Las librerías utilizadas fueron para el desarrollo del código en Python:
 * [BeatifulSoup](https://pypi.org/project/beautifulsoup4/) - Herramienta para visualización de HTML en terminal, útil para separar las columnas sin descargar la página por completo.
 * [gzip](https://docs.python.org/3/library/gzip.html) - Herramienta para descomprimir archivos .zip descargados.
 * [Matplotlib](https://matplotlib.org/) - Herramienta para la visualización gráfica de datos.
+
+
+# Practica n°2
+* Universidad de Chile
+* Universidad Tecnológica Metropolitana
+* Ingeniería Civil en Bioinformática - Universidad de Talca
+* Gerardo Muñoz
+
+El presente GitHub contiene la publicación del Google Colab creado durante la práctica profesional II.
